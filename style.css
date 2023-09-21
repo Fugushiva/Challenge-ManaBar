@@ -1,0 +1,26 @@
+#fond {
+  background-color: black;
+  width: 30vw;
+  height: 15vh;
+  position: absolute;
+  left: 36vw;
+  top: 35vh;
+}
+
+#receptacle {
+  border-color: white;
+  border-style: groove;
+  width: 80%;
+  height: 30%;
+  position: absolute;
+  top: 32%;
+  left: 10%;
+}
+
+#barre {
+  background-color: green;
+  height: 100%;
+  width: 0%;
+}
+
+
