@@ -1,2 +1,2 @@
 # Challenge-ManaBar
-a 30 min challenge, objective : make a interactive mana bar 
+i challenge myselfe doing a manabar with dynamic changes
