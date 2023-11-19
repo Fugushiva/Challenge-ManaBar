@@ -1,2 +1,2 @@
 # Challenge-ManaBar
-i challenge myselfe doing a manabar with dynamic changes
+i challenge myself doing a manabar with dynamic changes
